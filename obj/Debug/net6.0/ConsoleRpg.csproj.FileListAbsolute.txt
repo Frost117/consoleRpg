@@ -1,0 +1,15 @@
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.csproj.AssemblyReference.cache
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.AssemblyInfo.cs
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\bin\Debug\net6.0\ConsoleRpg.exe
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\bin\Debug\net6.0\ConsoleRpg.deps.json
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\bin\Debug\net6.0\ConsoleRpg.runtimeconfig.json
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\bin\Debug\net6.0\ConsoleRpg.dll
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\bin\Debug\net6.0\ConsoleRpg.pdb
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.dll
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\refint\ConsoleRpg.dll
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.pdb
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ConsoleRpg.genruntimeconfig.cache
+C:\Users\Eric\Documents\Cloud-sites\ConsoleRpg\obj\Debug\net6.0\ref\ConsoleRpg.dll
