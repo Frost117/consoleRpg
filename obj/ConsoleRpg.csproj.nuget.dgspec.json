@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eric\\Documents\\Cloud-sites\\ConsoleRpg\\ConsoleRpg.csproj": {}
+    "E:\\work\\console\\ConsoleRpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eric\\Documents\\Cloud-sites\\ConsoleRpg\\ConsoleRpg.csproj": {
+    "E:\\work\\console\\ConsoleRpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eric\\Documents\\Cloud-sites\\ConsoleRpg\\ConsoleRpg.csproj",
+        "projectUniqueName": "E:\\work\\console\\ConsoleRpg.csproj",
         "projectName": "ConsoleRpg",
-        "projectPath": "C:\\Users\\Eric\\Documents\\Cloud-sites\\ConsoleRpg\\ConsoleRpg.csproj",
+        "projectPath": "E:\\work\\console\\ConsoleRpg.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eric\\Documents\\Cloud-sites\\ConsoleRpg\\obj\\",
+        "outputPath": "E:\\work\\console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/umbracoprereleases/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -56,24 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

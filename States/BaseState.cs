@@ -10,6 +10,7 @@ namespace ConsoleRpg.States
 	{
 		protected Stack<BaseState> states;
 		protected bool end = false;
+		
 		public BaseState(Stack<BaseState> states) 
 		{
 			this.states = states;

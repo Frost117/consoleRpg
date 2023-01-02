@@ -1,10 +1,5 @@
-﻿using ConsoleRpg.GUI;
-using ConsoleRpg.States;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ConsoleRpg.States;
+using System.Collections;
 
 namespace ConsoleRpg
 {
@@ -19,6 +14,7 @@ namespace ConsoleRpg
         }
 
         private Stack<BaseState> states;
+        private ArrayList players;
 
         private void InitVariables()
         {
@@ -26,17 +22,22 @@ namespace ConsoleRpg
             this.states = new Stack<BaseState>();
         }
 
+        private void InitPlayers()
+        {
+            this.players = new ArrayList();
+        }
+
         private void InitStates()
         {
             this.states = new Stack<BaseState>();
-            this.states.Push(new MainMenuState(this.states));
-            this.states.Push(new GameState(this.states));
+            this.states.Push(new MainMenuState(this.states, this.players));
 
         }
 
         public Game()
         {
             this.InitVariables();
+            this.InitPlayers();
             this.InitStates();
         }
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleRpg.GUI;
+using System;
 
 
 namespace ConsoleRpg
@@ -9,7 +10,7 @@ namespace ConsoleRpg
         {
 
             Game game = new Game();
-
+            Gui.Title("Welcome to Rapid Tilting");
             game.Run();
         }
     }
